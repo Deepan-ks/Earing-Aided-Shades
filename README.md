@@ -5,19 +5,27 @@ This will help the visually impaired people for Reading(Hearing) text documents 
   #### Optical Character Recognition (OCR)
     pip install pytesseract
     pip install pillow
-    pip install numpy
-    
   #### Tesseract engine
   Tesseract is an optical character recognition engine with open-source code, this is the most popular and qualitative OCR-library.
    Download and install manually,
   (https://github.com/UB-Mannheim/tesseract/wiki)
   #### Transalte
-   Transalte the contents to the user desired language by using google transalte 
+   Transalte the contents in the user desired language by using google transalte 
    
-    pip install gtts
-    
+     pip install gtts  
 ## Scribe mode
   It will acts as SCRIBE for the visually imapaired people by reading the questions and able them to write the answers through Speech to     text
-    
-    pip install speech_recognition
- 
+     
+     pip install speech_recognition
+ ## Object-Detection using deep learning with opencv and python
+    pip install opencv-contib-python
+    pip install numpy
+   
+ #### YOLO V3 (You Only Look Once)
+   Yolo object dection wiith voice output
+   
+        Download the yolov3 weights from (https://pjreddie.com/media/files/yolov3.weights)
+ #### ffmpeg
+        
+        download and install it,(https://www.ffmpeg.org/download.html)
+  
