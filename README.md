@@ -6,10 +6,11 @@ This will help the visually impaired people for Reading(Hearing) text documents 
     pip install pytesseract
     pip install pillow
     pip install numpy
-  ##### Tesseract engine
-   Tesseract is an optical character recognition engine with open-source code, this is the most popular and qualitative OCR-library.
+    
+  #### Tesseract engine
+  Tesseract is an optical character recognition engine with open-source code, this is the most popular and qualitative OCR-library.
    Download and install manually,
-   ( https://github.com/UB-Mannheim/tesseract/wiki )
+  (https://github.com/UB-Mannheim/tesseract/wiki)
   #### Transalte
    Transalte the contents to the user desired language by using google transalte 
    
