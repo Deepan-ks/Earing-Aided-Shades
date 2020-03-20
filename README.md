@@ -1,11 +1,23 @@
 # Visuall-Assistant
 This will help the visually impaired people for Reading(Hearing) text documents in user desired languages ,answering for text doucments and detecting the objects around the user.
-
-There are 3 modes are available :
-1.Reading in desired language
-2.Answering mode(Scribe mode)
-3.Object Detection
-# Reading mode
+#  Reading mode
   It uses the OCR and tesseract engine for the extracting the text in document or text in image.
-  # Tesseract engine
-  
+  **Optical Character Recognition (OCR)**
+    pip install pytesseract
+    pip install pillow
+    pip install numpy
+  **Tesseract engine**
+   Tesseract is an optical character recognition engine with open-source code, this is the most popular and qualitative OCR-library.
+   
+    Download and install manually,
+    https://github.com/UB-Mannheim/tesseract/wiki
+  **Transalte**
+   Transalte the contents to the user desired language by using google transalte 
+   
+    pip install gtts
+    
+# Scribe mode
+  It will acts as SCRIBE for the visually imapaired people by reading the questions and able them to write the answers through Speech to     text
+    
+    pip install speech_recognition
+ 
