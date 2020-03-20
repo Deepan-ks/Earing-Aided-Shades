@@ -8,7 +8,7 @@ import pytesseract
 from googletrans import Translator  
 import os
 pytesseract.pytesseract.tesseract_cmd = r'path to the tesseract engine'
-mytext = pytesseract.image_to_string(Image.open('path to the image to be used'))
+mytext = pytesseract.image_to_string(Image.open('path of the image to be used'))
 print(mytext)
 translator = Translator() 
 translated = translator.translate(mytext, src='en', dest='ta') #user desired language
