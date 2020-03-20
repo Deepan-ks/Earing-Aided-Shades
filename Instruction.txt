@@ -1,0 +1,4 @@
+-active internet connection is required
+-for scribe mode,the question will be read line by line.
+-provide necessary file path to the system environment variables.
+-translation is available in tamil,hindi,french and Japanese.
