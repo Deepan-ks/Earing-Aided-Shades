@@ -26,6 +26,6 @@ This will help the visually impaired people for Reading(Hearing) text documents 
         Download the yolov3 weights from [here](https://pjreddie.com/media/files/yolov3.weights).
  #### ffmpeg
         
-      [download and install],(https://www.ffmpeg.org/download.html)
-      if any doubt [watch] this,(https://youtu.be/uDGkw2Dd3Dg)
+      download and [install](https://www.ffmpeg.org/download.html)
+      if any doubt [watch](https://youtu.be/uDGkw2Dd3Dg)
   
