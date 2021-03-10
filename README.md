@@ -1,4 +1,4 @@
-# Visual-Assistant
+# Earing Aided Shades
 This will help the visually impaired people for Reading(Hearing) text documents in user desired languages ,answering for text doucments and detecting the objects around the user.
 ## Reading mode
   It uses the OCR and tesseract engine for the extracting the text in document or text in image.
